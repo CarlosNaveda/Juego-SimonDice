@@ -2,7 +2,7 @@
 Proyecto Final del Curso "Platzi - Fundamentos de Javascript"
 
 Mejoras:
-- Separación de archivos: Html, css, javascript.
+- Separación de archivos: Html, css, javascript, audio.
 - Incluye música, durante la selección de los colores de la pc y del usuario.
 - Incluye visor de niveles, el cual se actualiza y reinicia conforme vaya el juego.
 
@@ -25,4 +25,5 @@ Librerías externas utilizadas:
 - Howler.js: https://howlerjs.com
 
 Descarga:
-Link: https://github.com/CarlosNaveda/Juego-SimonDice/archive/master.zip
+Link: 
+https://github.com/CarlosNaveda/Juego-SimonDice/archive/master.zip
