@@ -23,3 +23,6 @@ Herramientas:
 Librerías externas utilizadas:
 - SweetAlert: https://sweetalert2.github.io
 - Howler.js: https://howlerjs.com
+
+Descarga:
+Link: https://github.com/CarlosNaveda/Juego-SimonDice/archive/master.zip
